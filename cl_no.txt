@@ -1,0 +1,45 @@
+DataBase Details
+================
+
+database name : amazona
+
+collection    : products
+
+user          : admin
+
+password      : admin
+
+Connection URL : mongodb+srv://admin:admin@miniprojectdb.nzphu.mongodb.net/amazona?retryWrites=true&w=majority
+
+
+
+=> express  @types/express
+
+=> mongodb  @types/mongodb
+
+=> cors     @types/cors
+
+=> body-parser  @types/body-parser
+
+- express module used to develop the rest services.
+
+- mongodb module used to interact with the mongodb database.
+
+- cors module used to enable the ports communication.
+
+- body-parser module used to read the client data.
+
+> yarn add express @types/express mongodb @types/mongodb cors  @types/cors  body-parser @types/body-parser --save
+
+
+
+
+
+
+
+
+
+
+
+
+
